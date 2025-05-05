@@ -1,3 +1,9 @@
+flask-appbuilder
 apache-airflow-providers-postgres
 apache-airflow-providers-docker
+apache-airflow[ui]
 duckdb
+dbt-core
+dbt-postgres
+
+

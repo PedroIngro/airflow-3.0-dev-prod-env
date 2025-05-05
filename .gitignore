@@ -1,3 +1,6 @@
-airflow.cfg
 .env
 logs
+venv
+config
+docker-compose.override.yaml
+prometheus.yml
